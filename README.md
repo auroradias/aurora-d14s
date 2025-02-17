@@ -15,7 +15,7 @@ int main() {
     const char *serverDatabaseSkills[] = {"MySQL"};
     const char *studying[] = {"Logic Programming", "Algorithm Optimization"};
 
-    printSkills("Programming Languages", clientSkills, 3);
+    printSkills("Programming Languages", clientSkills, 2);
     printSkills("Server & Database", serverDatabaseSkills, 1);
     printSkills("Studying", studying, 2);
 
